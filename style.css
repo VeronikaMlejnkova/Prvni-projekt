@@ -3,3 +3,8 @@ body {
     background-color: antiquewhite;
     color: darkgoldenrod;
 }
+
+.kocka {
+    border: 2px solid darkgoldenrod;
+    padding: 5px;
+}
