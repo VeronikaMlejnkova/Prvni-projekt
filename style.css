@@ -8,3 +8,7 @@ body {
     border: 2px solid darkgoldenrod;
     padding: 5px;
 }
+
+.text {
+    padding: 20px;
+}
